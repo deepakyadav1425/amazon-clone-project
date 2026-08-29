@@ -1,0 +1,117 @@
+header {
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+
+    /* background-color: white;
+            color: black; */
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    box-shadow: 1px 1px 1px #000;
+}
+
+.icon {
+    height: 35px;
+    width: 80px;
+    box-sizing: border-box;
+
+    background-image: url("/img/logo.png");
+    background-size: 65px;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    /* background-color: rgb(84, 175, 255); */
+    padding: 10px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+
+
+
+
+
+.contant {
+    display: flex;
+}
+
+input {
+    width: 100%;
+    font-size: 18px;
+
+}
+
+
+#content {
+    font-size: 14px;
+
+    option {
+        opacity: 0.8;
+    }
+}
+
+.surch-box {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(239, 202, 19);
+    width: 620px;
+    height: 38px;
+    border-radius: 7px;
+
+    border: none;
+    border-radius: 5px;
+}
+
+
+.surch-box input::placeholder {
+    opacity: 0.5;
+}
+
+
+
+.surch-box:focus-within {
+    border-color: #ff9900;
+    box-shadow: 0 0 0 2px #ff9900;
+}
+
+.surch-box label:hover {
+    border: 2px solid yellow;
+}
+
+.surch-box input:hover {
+    border: 2px solid yellow;
+}
+
+.surch-box a:hover {
+    border: 2px solid rgb(246, 177, 16);
+}
+
+
+
+
+.surch-btn {
+    display: grid;
+    align-items: center;
+    padding: 10px;
+}
+
+.loction i {
+    opacity: 0.8;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* 
+        .border {
+            border: 1.5px solid transparent;
+
+        } */
+
+.border:hover {
+    padding: 2px;
+    border: 1.5px solid rgb(203, 203, 203);
+
+}
