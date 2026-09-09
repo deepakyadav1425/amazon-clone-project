@@ -15,7 +15,7 @@ Node.js, Express.js, JavaScript, GitHub API, REST API, Markdown
 
 ## Image
 
-https://github.com/deepakyadav1425/amazon-clone-project/blob/main/img/main/image.png
+https://2026-amazon-clone.netlify.app/img/main/image.png
 
 ## Live
 
