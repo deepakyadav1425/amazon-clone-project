@@ -7,7 +7,7 @@
 **Date:** 1 September 2026
 
 ## Description
-
+A responsive Amazon Clone e-commerce website built using HTML, CSS,
 
 ## Technologies
 
