@@ -18,15 +18,13 @@ Node.js, Express.js, JavaScript, GitHub API, REST API, Markdown
 https://2026-amazon-clone.netlify.app/img/main/image.png
 
 ## Live
-
-https://api.haproven.com/
+https://2026-amazon-clone.netlify.app
 
 ## GitHub
 
-https://github.com/haproven/haprocard
+https://github.com/deepakyadav1425/amazon-clone-project/
 
 ## Tags
-
-Haproven, Haprocard, GitHub API, REST API, Developer Tool, Project Showcase, Automation
+html css
 
 **Featured:** true
