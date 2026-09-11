@@ -3,7 +3,7 @@ A responsive Amazon Clone e-commerce website built using HTML, CSS,
 
 ## date : 08/09/2026 - September 
 
-https://deepakyadav1425.github.io/amazon-clone-project/
+https://amazon-clone-project-01.vercel.app/
 
 ![alt text](img/main/image.png)
 
