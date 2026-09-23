@@ -1,30 +1,21 @@
-# Amazon clone
+# amazon-clone-project
 
-**ID:** Amazon-clone
-**Category:** Developer Tool / API
-**Status:** In Development
-**Author:** Deepak
-**Date:** 1 September 2026
+## Project
 
-## Description
-A responsive Amazon Clone e-commerce website built using HTML, CSS,
+title: Amazon Clone Project
+description: A responsive e-commerce website inspired by Amazon, built using HTML and CSS with a clean and user-friendly interface.
+category: E-commerce Website
+status: Active
+image: https://raw.githubusercontent.com/deepakyadav1425/amazon-clone-project/main/img/main/image.png
 
-## Technologies
+## Links
 
-Node.js, Express.js, JavaScript, GitHub API, REST API, Markdown
+live: https://amazon-clone-project-01.vercel.app/
+demo: https://amazon-clone-project-01.vercel.app/
+documentation:
 
-## Image
+## Discover
 
-https://2026-amazon-clone.netlify.app/img/main/image.png
-
-## Live
-https://2026-amazon-clone.netlify.app
-
-## GitHub
-
-https://github.com/deepakyadav1425/amazon-clone-project/
-
-## Tags
-html css
-
-**Featured:** true
+tags: amazon-clone, e-commerce, html, css, responsive-design, web-development, frontend, haproven, open-source
+featured: true
+open_source: true
